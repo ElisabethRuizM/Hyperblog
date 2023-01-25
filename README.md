@@ -9,6 +9,7 @@ By Anita
 - El verdadero amor por las buenas prácticas.
 - Trucos muy locos del profesor.
 - Las personalidades múltiples de Freddy Vega.
+- Una personalidad más
 
 Además
 1. Incluye ejemplos en Windows, Linux y Mac.
