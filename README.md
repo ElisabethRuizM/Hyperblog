@@ -14,6 +14,7 @@ By Anita
 Además
 1. Incluye ejemplos en Windows, Linux y Mac.
 2. Disponible para todas las edades.
+3. Disponible por tiempo ilimitado.
 
 Creado con mucho amor por el increíble Platzi Team.
 
