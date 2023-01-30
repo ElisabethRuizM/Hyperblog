@@ -15,7 +15,7 @@ Además
 1. Incluye ejemplos en Windows, Linux y Mac.
 2. Disponible para todas las edades.
 3. Disponible por tiempo ilimitado.
-
+4. Inlcuye casos de uso en el mundo laboral.
 Creado con mucho amor por el increíble Platzi Team.
 
 PD: Y como un amable recordatorio, este Readme es un **chiste** diseñado para el ejemplo. Si llegas acá *NO TE LO TOMES EN SERIO* y mejor ve a ver el [curso](https://platzi.com/cursos/git-github/ "curso").
